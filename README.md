@@ -34,8 +34,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 Currently, I'm working on:
 
-- [Project 1](link-to-project-1): Brief description of project 1.
-- [Project 2](link-to-project-2): Brief description of project 2.
+- [WaterPoloVisualisation]([link-to-project-1](https://github.com/PaladinSkyland/WaterPoloVisualisation)): WaterPoloVisualisation is an application designed to provide real-time visualization of water polo players' trajectories. The application retrieves data from measurement sensors, calculates the speeds and positions of the players, and displays them in an interface representing the water polo field.
 
 Feel free to explore my repositories to see more of my work!
 
